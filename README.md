@@ -15,7 +15,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim), with my default key mappi
     defaults = {
       -- ... your other defaults
       cache_picker = {
-        -- we need to have history we can work with
+        -- we need to have a picker history we can work with
         num_pickers = 100
       }
       mapppings = {
